@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/Icons">
+        <file>pencil.png</file>
+        <file>mirror.png</file>
+        <file>eraser.png</file>
+        <file>rotateCW.png</file>
+        <file>flipY.png</file>
+        <file>flipX.png</file>
+        <file>rotateCCW.png</file>
+    </qresource>
+</RCC>
